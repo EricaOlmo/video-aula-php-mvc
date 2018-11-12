@@ -7,7 +7,7 @@
  */
 class DaoUsuario implements IDao {
 
-    public function excluir(Usuario $u) {
+    public function excluir($u) {
         $sql = "delete FROM usuario where id=:ID";
         $conexao = Conexao::getConexao();
         $sth = $conexao->prepare($sql);
@@ -82,7 +82,7 @@ class DaoUsuario implements IDao {
         return $arUsu;
     }
 
-    public function salvar(Usuario $u) {
+    public function salvar($u) {
         $nome = $u->getNome();
         $login = $u->getLogin();
         $senha = $u->getSenha();

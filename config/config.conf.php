@@ -1,12 +1,12 @@
 <?php
 $conf = array(
-    'URL' => "http://localhost/mvc-php/public/",
+    'URL' => "http://localhost/video-aula-php-mvc/public/",
     'HOST' => "localhost",
     'PORT' => 3306,
-    'DB_NAME' => "mvcteste",
+    'DB_NAME' => "singleton",
     'USER_NAME' => "root",
-    'PASSWORD' => "",
-    'DEFAULT_CONTROLLER' => "ControleUsuario",
-    'DEFAULT_METHOD' => "listaDeUsuario",
+    'PASSWORD' => "root",
+    'DEFAULT_CONTROLLER' => "ControleMenu",
+    'DEFAULT_METHOD' => "inicio",
      'PATH_UPLOADS' => "./uploads/",
 );

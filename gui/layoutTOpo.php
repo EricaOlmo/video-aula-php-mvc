@@ -17,6 +17,7 @@
     <body>
         <div class="container">
             <div class="row">
+               
                 <?php
                 @session_start();
                 if (isset($_SESSION['usuarioObj'])):
@@ -24,6 +25,9 @@
                     if ($user instanceof Usuario) :
                         ?>
                         <div class="alert alert-info">
+                             <a href="<?=URL?>">
+                                 <i class="glyphicon glyphicon-home"></i>
+                            </a>
                             <h3>Usuário logado</h3>
                             <?= $user->getNome() ?>
                             -

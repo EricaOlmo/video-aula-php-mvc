@@ -60,7 +60,7 @@ class TApp {
                 }
                 if (method_exists($c, $this->method)) {
                     if ($this->params !== null) {
-                        $c->{$this->method}($this->params);
+                         $c->{$this->method}($this->params);
                     } else {
                         $c->{$this->method}();
                     }

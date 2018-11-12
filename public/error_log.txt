@@ -26,3 +26,588 @@
 [01-Nov-2016 04:11:58 Europe/Paris] PHP   3. Login->autenticar() C:\wamp\www\mvc-php\libs\TApp.php:63
 [01-Nov-2016 04:11:58 Europe/Paris] PHP   4. TGui->renderizar() C:\wamp\www\mvc-php\to\Login.php:18
 [01-Nov-2016 04:11:58 Europe/Paris] PHP   5. include_once() C:\wamp\www\mvc-php\libs\TGui.php:19
+[24-Oct-2018 00:38:44 UTC] PHP Notice:  Undefined variable: empresas in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 14
+[24-Oct-2018 00:38:44 UTC] PHP Stack trace:
+[24-Oct-2018 00:38:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:38:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:38:44 UTC] PHP   3. ControleEmpresa->listaDeEmpresa() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:13 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 30
+[24-Oct-2018 00:43:13 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:13 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:13 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:13 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:13 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 52
+[24-Oct-2018 00:43:13 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:13 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:13 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:13 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:13 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:13 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:13 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 57
+[24-Oct-2018 00:43:13 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:13 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:13 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:13 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:13 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:13 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:13 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 30
+[24-Oct-2018 00:43:13 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:13 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:14 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:14 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:14 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 52
+[24-Oct-2018 00:43:14 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:14 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:14 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:14 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:14 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:14 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:14 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 57
+[24-Oct-2018 00:43:14 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:14 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:14 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:14 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:14 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:14 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:44 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 52
+[24-Oct-2018 00:43:44 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:44 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:44 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:44 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:44 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 57
+[24-Oct-2018 00:43:44 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:44 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:44 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:44 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:44 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 52
+[24-Oct-2018 00:43:44 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:44 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:44 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:44 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:43:44 UTC] PHP Notice:  Undefined variable: thumbPath in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 57
+[24-Oct-2018 00:43:44 UTC] PHP Stack trace:
+[24-Oct-2018 00:43:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:43:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:43:44 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:43:44 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:43:44 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:47:50 UTC] PHP Fatal error:  Call to undefined method Empresa::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 12
+[24-Oct-2018 00:47:50 UTC] PHP Stack trace:
+[24-Oct-2018 00:47:50 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:47:50 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:47:50 UTC] PHP   3. ControleEmpresa->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:47:50 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:31
+[24-Oct-2018 00:47:50 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:50:29 UTC] PHP Fatal error:  Call to undefined method Empresa::getSituação() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeEmpresa.php on line 27
+[24-Oct-2018 00:50:29 UTC] PHP Stack trace:
+[24-Oct-2018 00:50:29 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:50:29 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:50:29 UTC] PHP   3. ControleEmpresa->listaDeEmpresa() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:50:29 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:15
+[24-Oct-2018 00:50:29 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[10-Nov-2018 15:47:45 UTC] PHP Fatal error:  Using $this when not in object context in C:\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 9
+[10-Nov-2018 15:47:45 UTC] PHP Stack trace:
+[10-Nov-2018 15:47:45 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[10-Nov-2018 15:47:45 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[10-Nov-2018 15:47:45 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[10-Nov-2018 15:47:45 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[10-Nov-2018 15:47:45 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[10-Nov-2018 15:47:51 UTC] PHP Fatal error:  Using $this when not in object context in C:\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 9
+[10-Nov-2018 15:47:51 UTC] PHP Stack trace:
+[10-Nov-2018 15:47:51 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[10-Nov-2018 15:47:51 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[10-Nov-2018 15:47:51 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[10-Nov-2018 15:47:51 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[10-Nov-2018 15:47:51 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 00:19:44 UTC] PHP Notice:  Undefined variable: nome in C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 42
+[11-Nov-2018 00:19:44 UTC] PHP Stack trace:
+[11-Nov-2018 00:19:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:19:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:19:44 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:29:07 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:29:07 UTC] PHP Stack trace:
+[11-Nov-2018 00:29:07 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:29:07 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:29:07 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:29:46 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:29:46 UTC] PHP Stack trace:
+[11-Nov-2018 00:29:46 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:29:46 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:29:46 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:29:54 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:29:54 UTC] PHP Stack trace:
+[11-Nov-2018 00:29:54 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:29:54 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:29:54 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:42 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:42 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:42 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:42 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:42 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:43 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:43 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:43 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:43 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:43 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:44 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:44 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:44 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:44 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:44 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:44 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:44 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:44 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:44 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:44 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:44 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:44 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:44 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:44 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:45 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:45 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:45 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:45 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:45 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:30:45 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:30:45 UTC] PHP Stack trace:
+[11-Nov-2018 00:30:45 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:30:45 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:30:45 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:31:56 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:31:56 UTC] PHP Stack trace:
+[11-Nov-2018 00:31:56 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:31:56 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:31:56 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:35:26 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:35:26 UTC] PHP Stack trace:
+[11-Nov-2018 00:35:26 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:35:26 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:35:26 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:36:16 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:36:16 UTC] PHP Stack trace:
+[11-Nov-2018 00:36:16 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:36:16 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:36:16 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:36:19 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:36:19 UTC] PHP Stack trace:
+[11-Nov-2018 00:36:19 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:36:19 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:36:19 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:37:36 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:37:36 UTC] PHP Stack trace:
+[11-Nov-2018 00:37:36 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:37:36 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:37:36 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:37:52 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:37:52 UTC] PHP Stack trace:
+[11-Nov-2018 00:37:52 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:37:52 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:37:52 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:38:47 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:38:47 UTC] PHP Stack trace:
+[11-Nov-2018 00:38:47 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:38:47 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:38:47 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:42:02 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:42:02 UTC] PHP Stack trace:
+[11-Nov-2018 00:42:02 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:42:02 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:42:02 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:42:07 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:42:07 UTC] PHP Stack trace:
+[11-Nov-2018 00:42:07 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:42:07 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:42:07 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:43:39 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 65
+[11-Nov-2018 00:43:39 UTC] PHP Stack trace:
+[11-Nov-2018 00:43:39 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:43:39 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:43:39 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:44:50 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:44:50 UTC] PHP Stack trace:
+[11-Nov-2018 00:44:50 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:44:50 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:44:50 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:45:07 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:45:07 UTC] PHP Stack trace:
+[11-Nov-2018 00:45:07 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:45:07 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:45:07 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 00:45:09 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 64
+[11-Nov-2018 00:45:09 UTC] PHP Stack trace:
+[11-Nov-2018 00:45:09 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 00:45:09 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 00:45:09 UTC] PHP   3. ControleEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 01:14:15 UTC] PHP Fatal error:  Class ControleCategoria contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 78
+[11-Nov-2018 01:14:15 UTC] PHP Stack trace:
+[11-Nov-2018 01:14:15 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:14:15 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:14:15 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:15 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:15 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:14:24 UTC] PHP Fatal error:  Class ControleCategoria contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 78
+[11-Nov-2018 01:14:24 UTC] PHP Stack trace:
+[11-Nov-2018 01:14:24 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:14:24 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:14:24 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:24 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:24 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:14:24 UTC] PHP Fatal error:  Class ControleCategoria contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 78
+[11-Nov-2018 01:14:24 UTC] PHP Stack trace:
+[11-Nov-2018 01:14:24 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:14:24 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:14:24 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:24 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:24 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:14:25 UTC] PHP Fatal error:  Class ControleMenu contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleMenu.php on line 15
+[11-Nov-2018 01:14:25 UTC] PHP Stack trace:
+[11-Nov-2018 01:14:25 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:14:25 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:14:25 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:25 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:25 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:14:29 UTC] PHP Fatal error:  Class ControleMenu contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleMenu.php on line 15
+[11-Nov-2018 01:14:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:14:29 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:14:29 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:14:29 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:29 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:29 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:14:56 UTC] PHP Fatal error:  Class ControleMenu contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleMenu.php on line 15
+[11-Nov-2018 01:14:56 UTC] PHP Stack trace:
+[11-Nov-2018 01:14:56 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:14:56 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:14:56 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:56 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:14:56 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:15:02 UTC] PHP Fatal error:  Class ControleMenu contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleMenu.php on line 15
+[11-Nov-2018 01:15:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:15:02 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:15:02 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:15:02 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:15:02 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:15:02 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 01:15:03 UTC] PHP Fatal error:  Class ControleMenu contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IPrivateTO::method) in C:\wamp64\www\video-aula-php-mvc\to\ControleMenu.php on line 15
+[11-Nov-2018 01:15:03 UTC] PHP Stack trace:
+[11-Nov-2018 01:15:03 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 01:15:03 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 01:15:03 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:15:03 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 01:15:03 UTC] PHP   5. require_once() C:\wamp64\www\video-aula-php-mvc\public\index.php:26
+[11-Nov-2018 02:01:11 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\dao\DaoEmpresa.php on line 14
+[11-Nov-2018 02:01:11 UTC] PHP Stack trace:
+[11-Nov-2018 02:01:11 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:01:11 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:01:11 UTC] PHP   3. ControleEmpresa->confirmaExclusao() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:01:11 UTC] PHP   4. DaoEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:73
+[11-Nov-2018 02:01:11 UTC] PHP Fatal error:  Call to a member function getId() on null in C:\wamp64\www\video-aula-php-mvc\dao\DaoEmpresa.php on line 14
+[11-Nov-2018 02:01:11 UTC] PHP Stack trace:
+[11-Nov-2018 02:01:11 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:01:11 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:01:11 UTC] PHP   3. ControleEmpresa->confirmaExclusao() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:01:11 UTC] PHP   4. DaoEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:73
+[11-Nov-2018 02:06:47 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\dao\DaoEmpresa.php on line 14
+[11-Nov-2018 02:06:47 UTC] PHP Stack trace:
+[11-Nov-2018 02:06:47 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:06:47 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:06:47 UTC] PHP   3. ControleEmpresa->confirmaExclusao() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:06:47 UTC] PHP   4. DaoEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:73
+[11-Nov-2018 02:06:47 UTC] PHP Fatal error:  Call to a member function getId() on null in C:\wamp64\www\video-aula-php-mvc\dao\DaoEmpresa.php on line 14
+[11-Nov-2018 02:06:47 UTC] PHP Stack trace:
+[11-Nov-2018 02:06:47 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:06:47 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:06:47 UTC] PHP   3. ControleEmpresa->confirmaExclusao() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:06:47 UTC] PHP   4. DaoEmpresa->excluir() C:\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:73
+[11-Nov-2018 02:21:12 UTC] PHP Fatal error:  Class 'DaoDescricao' not found in C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 48
+[11-Nov-2018 02:21:12 UTC] PHP Stack trace:
+[11-Nov-2018 02:21:12 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:21:12 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:21:12 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:21:48 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:21:48 UTC] PHP Stack trace:
+[11-Nov-2018 02:21:48 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:21:48 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:21:48 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:21:48 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:21:48 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:23:23 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:23:23 UTC] PHP Stack trace:
+[11-Nov-2018 02:23:23 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:23:23 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:23:23 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:23:23 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:23:23 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:23:23 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:23:23 UTC] PHP Stack trace:
+[11-Nov-2018 02:23:23 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:23:23 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:23:23 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:23:23 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:23:23 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:23:24 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:23:24 UTC] PHP Stack trace:
+[11-Nov-2018 02:23:24 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:23:24 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:23:24 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:23:24 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:23:24 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:23:24 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:23:24 UTC] PHP Stack trace:
+[11-Nov-2018 02:23:24 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:23:24 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:23:24 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:23:24 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:23:24 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:23:25 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:23:25 UTC] PHP Stack trace:
+[11-Nov-2018 02:23:25 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:23:25 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:23:25 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:23:25 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:23:25 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:23:25 UTC] PHP Fatal error:  Call to undefined method Categoria::getCategoria() in C:\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 24
+[11-Nov-2018 02:23:25 UTC] PHP Stack trace:
+[11-Nov-2018 02:23:25 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:23:25 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:23:25 UTC] PHP   3. ControleCategoria->listaDeCategoria() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:23:25 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:15
+[11-Nov-2018 02:23:25 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:54:56 UTC] PHP Notice:  Undefined variable: empresa in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 11
+[11-Nov-2018 02:54:56 UTC] PHP Stack trace:
+[11-Nov-2018 02:54:56 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:54:56 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:54:56 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:54:56 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:54:56 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:54:56 UTC] PHP Fatal error:  Call to a member function getSituacao() on null in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 11
+[11-Nov-2018 02:54:56 UTC] PHP Stack trace:
+[11-Nov-2018 02:54:56 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:54:56 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:54:56 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:54:56 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:54:56 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:55:06 UTC] PHP Notice:  Undefined variable: empresa in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 11
+[11-Nov-2018 02:55:06 UTC] PHP Stack trace:
+[11-Nov-2018 02:55:06 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:55:06 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:55:06 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:55:06 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:55:06 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:55:06 UTC] PHP Fatal error:  Call to a member function getSituacao() on null in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 11
+[11-Nov-2018 02:55:06 UTC] PHP Stack trace:
+[11-Nov-2018 02:55:06 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:55:06 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:55:06 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:55:06 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:55:06 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:55:25 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 11
+[11-Nov-2018 02:55:25 UTC] PHP Stack trace:
+[11-Nov-2018 02:55:25 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:55:25 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:55:25 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:55:25 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:55:25 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:56:18 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 02:56:18 UTC] PHP Stack trace:
+[11-Nov-2018 02:56:18 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:56:18 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:56:18 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:56:18 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:56:18 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:56:51 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 02:56:51 UTC] PHP Stack trace:
+[11-Nov-2018 02:56:51 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:56:51 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:56:51 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:56:51 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:56:51 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:59:35 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 02:59:35 UTC] PHP Stack trace:
+[11-Nov-2018 02:59:35 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:59:35 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:59:35 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:59:35 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:59:35 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 02:59:41 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 02:59:41 UTC] PHP Stack trace:
+[11-Nov-2018 02:59:41 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 02:59:41 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 02:59:41 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 02:59:41 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 02:59:41 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:00:29 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 03:00:29 UTC] PHP Stack trace:
+[11-Nov-2018 03:00:29 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:00:29 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:00:29 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:00:29 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 03:00:29 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:00:30 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 03:00:30 UTC] PHP Stack trace:
+[11-Nov-2018 03:00:30 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:00:30 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:00:30 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:00:30 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 03:00:30 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:00:31 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 03:00:31 UTC] PHP Stack trace:
+[11-Nov-2018 03:00:31 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:00:31 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:00:31 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:00:31 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 03:00:31 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:00:31 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 03:00:31 UTC] PHP Stack trace:
+[11-Nov-2018 03:00:31 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:00:31 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:00:31 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:00:31 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 03:00:31 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:00:31 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 03:00:31 UTC] PHP Stack trace:
+[11-Nov-2018 03:00:31 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:00:31 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:00:31 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:00:31 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 03:00:31 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:00:32 UTC] PHP Fatal error:  Call to undefined method Categoria::getSituacao() in C:\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[11-Nov-2018 03:00:32 UTC] PHP Stack trace:
+[11-Nov-2018 03:00:32 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:00:32 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:00:32 UTC] PHP   3. ControleCategoria->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:00:32 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:31
+[11-Nov-2018 03:00:32 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[11-Nov-2018 03:02:21 UTC] PHP Fatal error:  Call to undefined method Categoria::setSituacao() in C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 52
+[11-Nov-2018 03:02:21 UTC] PHP Stack trace:
+[11-Nov-2018 03:02:21 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:02:21 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:02:21 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:02:55 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 57
+[11-Nov-2018 03:02:55 UTC] PHP Stack trace:
+[11-Nov-2018 03:02:55 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:02:55 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:02:55 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:02:55 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:02:55 UTC] PHP Fatal error:  Call to a member function getSituacao() on null in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 57
+[11-Nov-2018 03:02:55 UTC] PHP Stack trace:
+[11-Nov-2018 03:02:55 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:02:55 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:02:55 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:02:55 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:03:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:03:15 UTC] PHP Stack trace:
+[11-Nov-2018 03:03:15 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:03:15 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:03:15 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:03:15 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:03:15 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 03:03:19 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:03:19 UTC] PHP Stack trace:
+[11-Nov-2018 03:03:19 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:03:19 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:03:19 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:03:19 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:03:19 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 03:03:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:03:59 UTC] PHP Stack trace:
+[11-Nov-2018 03:03:59 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:03:59 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:03:59 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:03:59 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:03:59 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 03:06:43 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:06:43 UTC] PHP Stack trace:
+[11-Nov-2018 03:06:43 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:06:43 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:06:43 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:06:43 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:06:43 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 03:13:33 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:13:33 UTC] PHP Stack trace:
+[11-Nov-2018 03:13:33 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:13:33 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:13:33 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:13:33 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:13:33 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 03:14:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:14:59 UTC] PHP Stack trace:
+[11-Nov-2018 03:14:59 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:14:59 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:14:59 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:14:59 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:14:59 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 03:16:48 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 03:16:48 UTC] PHP Stack trace:
+[11-Nov-2018 03:16:48 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 03:16:48 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 03:16:48 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 03:16:48 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 03:16:48 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 04:00:37 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[11-Nov-2018 04:00:37 UTC] PHP Stack trace:
+[11-Nov-2018 04:00:37 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 04:00:37 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 04:00:37 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[11-Nov-2018 04:00:37 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[11-Nov-2018 04:00:37 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[11-Nov-2018 04:02:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php on line 66
+[11-Nov-2018 04:02:23 UTC] PHP Stack trace:
+[11-Nov-2018 04:02:23 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 04:02:23 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 04:02:23 UTC] PHP   3. class_exists() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 04:02:23 UTC] PHP   4. __autoload() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[11-Nov-2018 04:37:56 UTC] PHP Notice:  Undefined variable: descricao in C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php on line 42
+[11-Nov-2018 04:37:56 UTC] PHP Stack trace:
+[11-Nov-2018 04:37:56 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[11-Nov-2018 04:37:56 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[11-Nov-2018 04:37:56 UTC] PHP   3. ControleProduto->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:11:22 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[12-Nov-2018 20:11:22 UTC] PHP Stack trace:
+[12-Nov-2018 20:11:22 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[12-Nov-2018 20:11:22 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[12-Nov-2018 20:11:22 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:11:22 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[12-Nov-2018 20:11:22 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[12-Nov-2018 20:11:29 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php on line 74
+[12-Nov-2018 20:11:29 UTC] PHP Stack trace:
+[12-Nov-2018 20:11:29 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[12-Nov-2018 20:11:29 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[12-Nov-2018 20:11:29 UTC] PHP   3. ControleCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:11:29 UTC] PHP   4. DaoCategoria->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:55
+[12-Nov-2018 20:11:29 UTC] PHP   5. PDOStatement->execute() C:\wamp64\www\video-aula-php-mvc\dao\DaoCategoria.php:74
+[12-Nov-2018 20:19:20 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 62
+[12-Nov-2018 20:19:20 UTC] PHP Stack trace:
+[12-Nov-2018 20:19:20 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[12-Nov-2018 20:19:20 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[12-Nov-2018 20:19:20 UTC] PHP   3. ControleProduto->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:19:20 UTC] PHP   4. DaoProduto->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:62
+[12-Nov-2018 20:19:20 UTC] PHP Fatal error:  Call to a member function getId() on null in C:\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 62
+[12-Nov-2018 20:19:20 UTC] PHP Stack trace:
+[12-Nov-2018 20:19:20 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[12-Nov-2018 20:19:20 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[12-Nov-2018 20:19:20 UTC] PHP   3. ControleProduto->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:19:20 UTC] PHP   4. DaoProduto->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:62
+[12-Nov-2018 20:22:41 UTC] PHP Notice:  Undefined variable: e in C:\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 62
+[12-Nov-2018 20:22:41 UTC] PHP Stack trace:
+[12-Nov-2018 20:22:41 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[12-Nov-2018 20:22:41 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[12-Nov-2018 20:22:41 UTC] PHP   3. ControleProduto->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:22:41 UTC] PHP   4. DaoProduto->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:62
+[12-Nov-2018 20:22:41 UTC] PHP Fatal error:  Call to a member function getId() on null in C:\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 62
+[12-Nov-2018 20:22:41 UTC] PHP Stack trace:
+[12-Nov-2018 20:22:41 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[12-Nov-2018 20:22:41 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[12-Nov-2018 20:22:41 UTC] PHP   3. ControleProduto->salvar() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[12-Nov-2018 20:22:41 UTC] PHP   4. DaoProduto->salvar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:62
