@@ -1,6 +1,4 @@
-
-
-        <div class="container">
+ <div class="container">
 
             <a class="btn btn-danger" href="<?php echo URL; ?>Login/logout/">
                 <i class="glyphicon glyphicon-remove"></i> Logout</a>

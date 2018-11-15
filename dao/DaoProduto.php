@@ -5,10 +5,10 @@
  * @author Erica
  */
 class DaoProduto implements IDao {
+ 
     
-    
-    public function excluir($p) { //variavel "p" é produto
-        $sql = "delete FROM produto where id=:ID";
+    public function excluir($p) {
+         $sql = "delete FROM produto where id=:ID";
         $conexao = Conexao::getConexao();
         $sth = $conexao->prepare($sql);
         $p1 = $p->getId();
@@ -45,9 +45,9 @@ class DaoProduto implements IDao {
             echo $exc->getMessage();
         }
         $arProd = array();
-        while ($Prod = $sth->fetchObject("Produto")) {
+        while ($prod = $sth->fetchObject("Produto")) {
 
-            $arProd[] = $Prod;
+            $arProd[] = $prod;
         }
         return $arProd;
     }
@@ -56,22 +56,22 @@ class DaoProduto implements IDao {
         $nome = $p->getNome();
         $valor = $p->getValor();
         $situacao = $p->getSituacao();
-        //$categoria = $e->getCategoria();
+        $categoria = $p->getCategoria();
         $id = 0;
-
         if ($p->getId()) {
             $id = $p->getId();
-            $sql = "update produto set nome=:nome, situacao=:situacao, valor=:valor where id=:id";
+            $sql = "update produto set nome=:nome, situacao=:situacao, valor=:valor, categorias=:categorias where id=:id";
         } else {
-            $sql = "insert into produto(id,nome,situacao,valor) values "
-                    . "(:id,:nome,:situacao,:valor)";
+            $sql = "insert into produto(id,nome,situacao,valor,categorias) values "
+                    . "(:id,:nome,:situacao,:valor,:categorias)";
         }
         $cnx = Conexao::getConexao();
         $sth = $cnx->prepare($sql);
         $sth->bindParam("id", $id);
         $sth->bindParam("nome", $nome);
         $sth->bindParam("situacao", $situacao);
-         $sth->bindParam("valor", $valor);
+        $sth->bindParam("valor", $valor);
+        $sth->bindParam("categorias", $categoria);
         
         try {
             $sth->execute();
@@ -81,4 +81,5 @@ class DaoProduto implements IDao {
     }
 
     }
-}
+
+ }

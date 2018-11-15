@@ -1,6 +1,4 @@
-
-
-        <div class="container">
+<div class="container">
 
             <a class="btn btn-danger" href="<?php echo URL; ?>Login/logout/">
                 <i class="glyphicon glyphicon-remove"></i> Logout</a>
@@ -13,22 +11,24 @@
                         <th>NOME</th>
                         <th>situaçao</th>
                         <th>Valor</th>
-                        <!--<th>Categoria</th>-->
+                        <th>Categoria</th>
                         <th>controles</th>
                     </tr>
                 <tbody>
                        
                     <?php if ($this->getDados('produtos')): ?>  
                         <?php $ar = $this->getDados('produtos'); ?>
-                        <?php $ds = ["I"=>"inativo", "A"=>"Ativo"];?>
+                    
                      <?php foreach ($ar as $produto): ?>
                            <?php $produto instanceof Produto; ?>
                                  
                             <tr><td><?= $produto->getId() ?></td>
                             <td><?= $produto->getNome() ?></td>
-                            <td><?=$ds [$produto->getSituacao()]?></td>
-                            <td><?=$ds [$produto->getvalor()]?></td>
-                            <!--<td><?//=$ds [$produto->getCategoria()]?></td>-->
+                            <td><?= $produto->getSituacao()?>
+                            <td><?= $produto->getvalor()?></td>
+                            <td><?= $produto->getCategoria()->getDescricao()?></td>
+                            
+                          
                             <td>
                             <a class="btn btn-default" 
                                href="<?= URL ?>controle-produto/excluir/<?= $produto->getId() ?>">

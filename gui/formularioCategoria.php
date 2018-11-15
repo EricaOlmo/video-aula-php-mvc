@@ -22,12 +22,12 @@
         
         <label>status</label><br>
         <select class="form-control" name="status">
-            <option value="A" <?php
+            <option value="A" <//?php
             if ($status == 'A') {
                 echo 'selected="true"';
             }
-            ?>>Ativo</option>
-            <option value="I" <?php
+            ?>Ativo</option>
+            <option value="I" <//?php
             if ($status == 'I') {
                 echo 'selected="true"';
             }

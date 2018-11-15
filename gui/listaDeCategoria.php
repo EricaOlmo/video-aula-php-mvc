@@ -1,6 +1,4 @@
-
-
-        <div class="container">
+<div class="container">
 
             <a class="btn btn-danger" href="<?php echo URL; ?>Login/logout/">
                 <i class="glyphicon glyphicon-remove"></i> Logout</a>
@@ -11,18 +9,18 @@
                     <tr>
                         <th>ID</th>
                         <th>Descrição</th>
+                        <th>Controles</th>
                     </tr>
                 <tbody>
 
-                    <?php if ($this->getDados('categoria')): ?>
-                        <?php $ar = $this->getDados('categoria'); ?>
+                    <?php if  ($this->getDados('categorias')): ?>
+                        <?php $ar = $this->getDados('categorias'); ?>
 
                      <?php foreach ($ar as $categoria): ?>
                            <?php $categoria instanceof Categoria; ?>
                                  
                             <tr><td><?= $categoria->getId() ?></td>
-                            <td><?= $categoria->getDescricao() ?></td>
-                            <td><img class="thumbnail thumb" src="<?= URL.$categoria->getThumbnail_path() ?>"/></td>
+                                <td><?= $categoria->getDescricao() ?></td>
                             <td>
                             <a class="btn btn-default" 
                                href="<?= URL ?>controle-categoria/excluir/<?= $categoria->getId() ?>">

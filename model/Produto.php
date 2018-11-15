@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Description of Produto
  *
@@ -10,8 +9,7 @@ class Produto {
     private $nome;
     private $situacao;
     private $valor;
-    //private $categoria;
-    
+    private $categoria;
 
     function getId() {
         return $this->id;
@@ -27,6 +25,10 @@ class Produto {
 
     function getValor() {
         return $this->valor;
+    }
+
+    function getCategoria() {
+        return $this->categoria;
     }
 
     function setId($id) {
@@ -45,6 +47,9 @@ class Produto {
         $this->valor = $valor;
     }
 
+    function setCategoria($categoria) {
+        $this->categoria = $categoria;
+    }
 
 
 }

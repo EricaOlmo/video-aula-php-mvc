@@ -7,7 +7,7 @@
 class DaoCategoria implements IDao {
     
     
-    public function excluir($ct) {
+   public function excluir($ct) {
         $sql = "delete FROM categoria where id=:ID";
         $conexao = Conexao::getConexao();
         $sth = $conexao->prepare($sql);
@@ -20,7 +20,6 @@ class DaoCategoria implements IDao {
             return $exc->getMessage();
         }
     }
-
     public function listar($p1) {
         $sql = "SELECT * FROM categoria where id=:ID";
         $conexao = Conexao::getConexao();
@@ -34,7 +33,6 @@ class DaoCategoria implements IDao {
         $cat = $sth->fetchObject("Categoria");
         return $cat;
     }
-
     public function listarTodos() {
         $sql = "SELECT * FROM categoria";
         $conexao = Conexao::getConexao();
@@ -46,36 +44,33 @@ class DaoCategoria implements IDao {
         }
         $arCat = array();
         while ($cat = $sth->fetchObject("Categoria")) {
-
             $arCat[] = $cat;
         }
         return $arCat;
     }
-
-    public function salvar($ct) {
-        $descricao = $ct->getDescricao();
-        //$situacao = $e->getSituacao();
+    public function salvar($cat) {
+        $descricao = $cat->getDescricao();
+        //$situacao = $situacao->getSituacao();
         $id = 0;
-
-        if ($ct->getId()) {
-            $id = $ct->getId();
+        if ($cat->getId()) {
+            $id = $cat->getId();
             $sql = "update categoria set descricao=:descricao where id=:id";
         } else {
-            $sql = "insert into categoria(id,descricao) values "
-                    . "(:id,:descricao)";
+            $sql = "insert into categoria(id, descricao) values "
+                    . "(:id, :descricao)";
         }
         $cnx = Conexao::getConexao();
         $sth = $cnx->prepare($sql);
-        $sth->bindParam("id", $id);
-        $sth->bindParam("descricao", $descricao);
-        $sth->bindParam("situacao", $situacao);
+        $sth->bindParam(":id", $id);
+        $sth->bindParam(":descricao", $descricao);
+        //$sth->bindParam("situacao", $situacao);
         
         try {
             $sth->execute();
-            return $ct;
+            return $cat;
         } catch (Exception $exc) {
             return $exc->getMessage();
     }
-
+    
     }
 }

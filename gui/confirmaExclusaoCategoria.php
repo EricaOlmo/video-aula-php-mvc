@@ -4,7 +4,7 @@
         echo $cat->getDescricao();
     }
     ?>?</h4>
-<form method="post" action="<?php echo URL; ?>controle-categoria/confirma-categoria">
+<form method="post" action="<?php echo URL; ?>controle-categoria/confirma-exclusao">
     <input type="hidden" name="id" value="<?php
     if ($cat instanceof Categoria) {
         echo $cat->getId();
