@@ -14,7 +14,8 @@
         $nome = $produto->getNome();
         $status = $produto->getSituacao();
         $valor = $produto->getValor();
-        //$categoria = $produto->getCategoria();
+        //$categoria = $produto->getCategoria();     
+        //se eu deixo a linha acima 
     }
     ?>
 

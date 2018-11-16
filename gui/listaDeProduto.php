@@ -26,8 +26,10 @@
                             <td><?= $produto->getNome() ?></td>
                             <td><?= $produto->getSituacao()?>
                             <td><?= $produto->getvalor()?></td>
-                            <td><?= $produto->getCategoria()->getDescricao()?></td>
-                            
+                            <td><?=$produto->getCategoria()->getDescricao()?></td-->
+                            <!--quando eu deixo a linha acima sem comentar aparece mensagem de erro no local
+                            da categoria e não aparece os controles, desisti de tentar arrumar, foi o maximo que
+                            consegui sem pedir ajuda a ninguem-->
                           
                             <td>
                             <a class="btn btn-default" 

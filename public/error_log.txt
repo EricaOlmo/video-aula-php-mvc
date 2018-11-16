@@ -1118,3 +1118,205 @@
 [15-Nov-2018 01:37:53 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
 [15-Nov-2018 01:37:53 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
 [15-Nov-2018 01:37:53 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:49:43 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:49:43 UTC] PHP Stack trace:
+[16-Nov-2018 22:49:43 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:49:43 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:49:43 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:49:43 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:49:43 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:51:54 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:51:54 UTC] PHP Stack trace:
+[16-Nov-2018 22:51:54 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:51:54 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:51:54 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:51:54 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:52:04 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:52:04 UTC] PHP Stack trace:
+[16-Nov-2018 22:52:04 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:52:04 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:52:04 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:52:04 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:52:04 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:54:41 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:54:41 UTC] PHP Stack trace:
+[16-Nov-2018 22:54:41 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:54:41 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:54:41 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:54:41 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:54:41 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:54:50 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:54:50 UTC] PHP Stack trace:
+[16-Nov-2018 22:54:50 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:54:50 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:54:50 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:54:50 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:54:50 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:54:53 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:54:53 UTC] PHP Stack trace:
+[16-Nov-2018 22:54:53 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:54:53 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:54:53 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:54:53 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:54:53 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:54:53 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:54:53 UTC] PHP Stack trace:
+[16-Nov-2018 22:54:53 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:54:53 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:54:53 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:54:53 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:54:53 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:54:54 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:54:54 UTC] PHP Stack trace:
+[16-Nov-2018 22:54:54 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:54:54 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:54:54 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:54:54 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:54:54 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:54:54 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:54:54 UTC] PHP Stack trace:
+[16-Nov-2018 22:54:54 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:54:54 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:54:54 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:54:54 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:54:54 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:57:59 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:57:59 UTC] PHP Stack trace:
+[16-Nov-2018 22:57:59 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:57:59 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:57:59 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:57:59 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:57:59 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:58:01 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 22:58:01 UTC] PHP Stack trace:
+[16-Nov-2018 22:58:01 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:58:01 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:58:01 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:58:01 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 22:58:01 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 22:58:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 46
+[16-Nov-2018 22:58:04 UTC] PHP Stack trace:
+[16-Nov-2018 22:58:04 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 22:58:04 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 22:58:04 UTC] PHP   3. ControleProduto->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 22:58:04 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:34
+[16-Nov-2018 22:58:04 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:02:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 46
+[16-Nov-2018 23:02:25 UTC] PHP Stack trace:
+[16-Nov-2018 23:02:25 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:02:25 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:02:25 UTC] PHP   3. ControleProduto->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:02:25 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:34
+[16-Nov-2018 23:02:25 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:04:59 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:04:59 UTC] PHP Stack trace:
+[16-Nov-2018 23:04:59 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:04:59 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:04:59 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:04:59 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:04:59 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:05:00 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:00 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:00 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:00 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:00 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:00 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:00 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:05:00 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:00 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:00 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:00 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:00 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:00 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:00 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:05:00 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:00 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:00 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:00 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:00 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:00 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:00 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:05:01 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:01 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:01 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:01 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:01 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:01 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:01 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:05:01 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:01 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:01 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:01 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:01 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:01 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:01 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:05:30 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:30 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:30 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:30 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:30 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:30 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:31 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:31 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:31 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:31 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:31 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:31 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:32 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:32 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:32 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:32 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:32 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:32 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:32 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:32 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:32 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:32 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:32 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:32 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:32 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:32 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:32 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:32 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:32 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:32 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:05:59 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:05:59 UTC] PHP Stack trace:
+[16-Nov-2018 23:05:59 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:05:59 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:05:59 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:05:59 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:06:01 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:06:01 UTC] PHP Stack trace:
+[16-Nov-2018 23:06:01 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:06:01 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:06:01 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:06:01 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:06:13 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:06:13 UTC] PHP Stack trace:
+[16-Nov-2018 23:06:13 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:06:13 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:06:13 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:06:13 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:06:13 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:06:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 46
+[16-Nov-2018 23:06:15 UTC] PHP Stack trace:
+[16-Nov-2018 23:06:15 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:06:15 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:06:15 UTC] PHP   3. ControleProduto->novo() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:06:15 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:34
+[16-Nov-2018 23:06:15 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:09:05 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:09:05 UTC] PHP Stack trace:
+[16-Nov-2018 23:09:05 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:09:05 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:09:05 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:09:05 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:09:05 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 23:10:24 UTC] PHP Fatal error:  Call to a member function getDescricao() on null in C:\wamp64\www\video-aula-php-mvc\gui\listaDeProduto.php on line 29
+[16-Nov-2018 23:10:24 UTC] PHP Stack trace:
+[16-Nov-2018 23:10:24 UTC] PHP   1. {main}() C:\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 23:10:24 UTC] PHP   2. TApp->executar() C:\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 23:10:24 UTC] PHP   3. ControleProduto->listaDeProduto() C:\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 23:10:24 UTC] PHP   4. TGui->renderizar() C:\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:13
+[16-Nov-2018 23:10:24 UTC] PHP   5. include_once() C:\wamp64\www\video-aula-php-mvc\libs\TGui.php:21

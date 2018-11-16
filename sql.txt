@@ -19,7 +19,8 @@ situacao varchar (25)
 create table if not exists categoria
 (
 id integer not null primary key auto_increment,
-descricao varchar (45)
+descricao varchar (45),
+situacao varchar(25)
 );
 
 create table if not exists produto
